@@ -1,0 +1,34 @@
+.description {
+    min-height: 400px;
+    margin: 100px;
+}
+
+.description__two-columns {
+    min-width: 784px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.description__brief {
+    font-size: 18px;
+    color: #2f80ed;
+    font-weight: normal;
+    width: 174px;
+}
+
+.description__main-text {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.description__paragraph {
+    line-height: 34px;
+    font-size: 24px;
+}
+
+.description__span-accent {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: bold;
+}
