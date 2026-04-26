@@ -41,7 +41,7 @@
 }
 
 .header__link {
-    color: rgb(6, 75, 236);
+    color: #2f80ed;
 }
 
 a:hover {
@@ -65,12 +65,4 @@ a:hover {
     position: absolute;
     right: 0;
     top: 0;
-}
-
-/*incluindo elementos com modificadores de valor-chave */
-.table__cell_theme_dark {
-    width: 200px;
-    color: white;
-    margin-right: 0;
-    margin-top: 80px;
 }
